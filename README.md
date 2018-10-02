@@ -18,3 +18,7 @@ npm install datatables.net-bs4 --save
 # Finaly jQuery and it's types 
 npm install jquery --save
 npm install @types/jquery --save-dev
+
+
+# intalacao de rxjs-compat
+npm i rxjs-compat --save
